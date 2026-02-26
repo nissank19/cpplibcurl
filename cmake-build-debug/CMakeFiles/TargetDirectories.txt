@@ -1,0 +1,3 @@
+C:/Users/fabia/OneDrive/Desktop/yeso/cooking/cmake-build-debug/CMakeFiles/CryptoTracker.dir
+C:/Users/fabia/OneDrive/Desktop/yeso/cooking/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fabia/OneDrive/Desktop/yeso/cooking/cmake-build-debug/CMakeFiles/rebuild_cache.dir

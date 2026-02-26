@@ -1,0 +1,6 @@
+# ninja log v6
+31	465	7938123883829738	build.ninja	eb226f564578dad
+35	2862	7938122895184574	CMakeFiles/CryptoTracker.dir/main.cpp.obj	e47071099d28d053
+4	387	7938123883829738	build.ninja	eb226f564578dad
+32	2837	7938123885410157	CMakeFiles/CryptoTracker.dir/main.cpp.obj	49d27485c43340a8
+2838	3000	7938123913476530	CryptoTracker.exe	5c1468fbc9adaa05
